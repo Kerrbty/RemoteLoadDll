@@ -1,0 +1,11 @@
+EXPORTS
+		InitAll
+		RelocAddr
+		RemoteInertDllFromFileA
+		RemoteInertDllFromFileW
+		RemoteInertDllFromMemory
+		
+		LoadDllFromFileA
+		LoadDllFromFileW
+		LoadDllFromMemory
+		FreeMyDlls
